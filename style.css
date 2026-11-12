@@ -1,0 +1,11 @@
+h1, h2 {
+	font-family: "Redaction 70", sans-serif;
+}
+
+body {
+	background-color: yellow;
+}
+
+p {
+	max-width: 600px;
+}
